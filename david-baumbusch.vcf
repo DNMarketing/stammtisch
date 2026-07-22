@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Baumbusch;David;;;
+FN:David Baumbusch
+ORG:D&N Marketing GbR
+TITLE:CEO & Gründer
+TEL;TYPE=CELL:+491792347857
+EMAIL;TYPE=WORK:contact@dnmarketing.de
+URL:https://dnmarketing.de
+ADR;TYPE=WORK:;;Elisabeth-Selbert-Straße 20;Schwaigern;;74193;Deutschland
+END:VCARD
